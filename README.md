@@ -11,5 +11,5 @@ Experimented with different Machine Learning algorithms.
 Compared the results to recommend the best Regression model.
 
 Colab Link : 
-
+https://colab.research.google.com/drive/1hUPhRsH4GTvtzMxxIgZ-tN8cUVf3FUpa?usp=sharing
 Presentation Link : 
